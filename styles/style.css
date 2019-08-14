@@ -253,3 +253,15 @@ input::placeholder {
     border-radius: 50%;
     display: inline-block;
 }
+
+.promo-block__icon {
+    float: left;
+    width: 40px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.promo-block__content {
+    float: left;
+    width: calc(100% - 50px);
+}
