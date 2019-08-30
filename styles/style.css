@@ -18,6 +18,11 @@ body {
     font-family: 'PT Sans', sans-serif;
 }
 
+.slider-img {
+    width: 1000px;
+    margin: 0 auto;
+}
+
 .row::before,
 .row::after,
 .clearfix::before,
